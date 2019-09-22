@@ -128,4 +128,4 @@ Double check install instructions for both
  - [ ] Registration without Google SignIn
  - [ ] Direct Messaging
  - [ ] Stories
- - [ ] Clean up code
+ - [ ] Clean up code000
